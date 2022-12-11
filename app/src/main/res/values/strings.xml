@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="logins">
+        <item>tata@mail.ru</item>
+        <item>user1@mail.ru</item>
+        <item>user2@mail.ru</item>
+        <item>user3@mail.ru</item>
+        <item>use41@mail.ru</item>
+    </string-array>
+    <string-array name="passwords">
+        <item>tata</item>
+        <item>user1</item>
+        <item>user2</item>
+        <item>user3</item>
+        <item>user4</item>
+    </string-array>
+    <string-array name="recycler_data">
+        <item>My string 1</item>
+        <item>My string 2</item>
+        <item>My string 3</item>
+        <item>My string 4</item>
+        <item>My string 5</item>
+        <item>My string 6</item>
+        <item>My string 7</item>
+        <item>My string 8</item>
+        <item>My string 9</item>
+        <item>My string 10</item>
+        <item>My string 11</item>
+        <item>My string 12</item>
+        <item>My string 13</item>
+        <item>My string 14</item>
+        <item>My string 15</item>
+        <item>My string 16</item>
+        <item>My string 17</item>
+        <item>My string 18</item>
+        <item>My string 19</item>
+        <item>My string 20</item>
+        <item>My string 21</item>
+        <item>My string 22</item>
+        <item>My string 23</item>
+        <item>My string 24</item>
+        <item>My string 25</item>
+    </string-array>
+    <string-array name="recycler_author_data">
+        <item>Author 1</item>
+        <item>Author 2</item>
+        <item>Author 3</item>
+        <item>Author 4</item>
+        <item>Author 5</item>
+        <item>Author 6</item>
+        <item>Author 7</item>
+        <item>Author 8</item>
+        <item>Author 9</item>
+        <item>Author 10</item>
+        <item>Author 11</item>
+        <item>Author 12</item>
+        <item>Author 13</item>
+        <item>Author 14</item>
+        <item>Author 15</item>
+        <item>Author 16</item>
+        <item>Author 17</item>
+        <item>Author 18</item>
+        <item>Author 19</item>
+        <item>Author 20</item>
+        <item>Author 21</item>
+        <item>Author 22</item>
+        <item>Author 23</item>
+        <item>Author 24</item>
+        <item>Author 25</item>
+    </string-array>
+</resources>
